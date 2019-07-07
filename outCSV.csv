@@ -1,1 +1,48 @@
-LangCode,Score,Side,Status,StAddr,Subregion,Distance,AddNumTo,StDir,Region,StType,Match_addr,Postal,AddNum,StPreType,StName,City,Country,X,Addr_type,AddNumFrom,StPreDir,ResultID,Y
+ResultID,Status,Score,Match_addr,Addr_type,AddNum,AddNumFrom,AddNumTo,Side,StPreDir,StPreType,StName,StType,StDir,StAddr,City,Subregion,Region,Postal,Country,LangCode,Distance,X,Y
+4,M,100.0,"181 Mitchell Dr, New Haven, Connecticut, 06511",StreetAddress,181,1,181,R,,,Mitchell,Dr,,181 Mitchell Dr,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.906368,41.322502
+5,M,100.0,"45 Nash St, New Haven, Connecticut, 06511",StreetAddress,45,45,123,R,,,Nash,St,,45 Nash St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.909531,41.317193
+8,M,100.0,"140 Legion Ave, New Haven, Connecticut, 06519",StreetAddress,140,152,92,R,,,Legion,Ave,,140 Legion Ave,New Haven,New Haven,Connecticut,06519,USA,ENG,0,-72.940338,41.306078
+6,M,100.0,"480 Sherman Pkwy, New Haven, Connecticut, 06511",StreetAddress,480,472,482,L,,,Sherman,Pkwy,,480 Sherman Pkwy,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.938141,41.322654
+7,M,92.08,"177 College St, New Haven, Connecticut, 06510",StreetAddress,177,161,179,R,,,College,St,,177 College St,New Haven,New Haven,Connecticut,06510,USA,ENG,0,-72.930037,41.305354
+9,M,100.0,"175 Water St, New Haven, Connecticut, 06511",StreetAddress,175,141,299,R,,,Water,St,,175 Water St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.921236,41.301383
+13,U,0.0,,,,,,,,,,,,,,,,,,,0,0.0,0.0
+12,M,100.0,"60 S Water St, New Haven, Connecticut, 06519",StreetAddress,60,82,24,R,S,,Water,St,,60 S Water St,New Haven,New Haven,Connecticut,06519,USA,ENG,0,-72.928816,41.281893
+11,U,0.0,,,,,,,,,,,,,,,,,,,0,0.0,0.0
+10,M,100.0,"444 Orange St, New Haven, Connecticut, 06511",StreetAddress,444,436,456,L,,,Orange,St,,444 Orange St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.918983,41.312583
+14,M,100.0,"192 Dixwell Ave, New Haven, Connecticut, 06511",StreetAddress,192,166,200,L,,,Dixwell,Ave,,192 Dixwell Ave,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.933775,41.318266
+15,M,100.0,"103 Hallock Ave, New Haven, Connecticut, 06519",StreetAddress,103,101,133,R,,,Hallock,Ave,,103 Hallock Ave,New Haven,New Haven,Connecticut,06519,USA,ENG,0,-72.929274,41.285571
+16,M,100.0,"21 Wooster Pl, New Haven, Connecticut, 06511",StreetAddress,21,15,99,R,,,Wooster,Pl,,21 Wooster Pl,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.916982,41.304832
+17,M,100.0,"580 Dixwell Ave, New Haven, Connecticut, 06511",StreetAddress,580,564,598,L,,,Dixwell,Ave,,580 Dixwell Ave,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.935246,41.328893
+18,M,100.0,"150 Kimberly Ave, New Haven, Connecticut, 06519",StreetAddress,150,152,92,R,,,Kimberly,Ave,,150 Kimberly Ave,New Haven,New Haven,Connecticut,06519,USA,ENG,0,-72.934831,41.288447
+22,M,100.0,"200 Wilmot Rd, New Haven, Connecticut, 06515",StreetAddress,200,166,236,L,,,Wilmot,Rd,,200 Wilmot Rd,New Haven,New Haven,Connecticut,06515,USA,ENG,0,-72.958039,41.344382
+23,M,100.0,"400 Canner St, New Haven, Connecticut, 06511",StreetAddress,400,362,498,L,,,Canner,St,,400 Canner St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.920926,41.325352
+19,M,100.0,"170 Derby Ave, New Haven, Connecticut, 06511",StreetAddress,170,170,152,R,,,Derby,Ave,,170 Derby Ave,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.951999,41.310224
+20,M,90.16,"100 Jewell St, New Haven, Connecticut, 06515",StreetAddress,100,68,198,L,,,Jewell,St,,100 Jewell St,New Haven,New Haven,Connecticut,06515,USA,ENG,0,-72.953788,41.32564
+21,M,100.0,"1481 Quinnipiac Ave, New Haven, Connecticut, 06513",StreetAddress,1481,1451,1535,R,,,Quinnipiac,Ave,,1481 Quinnipiac Ave,New Haven,New Haven,Connecticut,06513,USA,ENG,0,-72.870649,41.32606
+28,M,100.0,"130 Orchard St, New Haven, Connecticut, 06519",StreetAddress,130,106,150,L,,,Orchard,St,,130 Orchard St,New Haven,New Haven,Connecticut,06519,USA,ENG,0,-72.942642,41.304885
+24,M,100.0,"199 Wilmot Rd, New Haven, Connecticut, 06515",StreetAddress,199,165,235,R,,,Wilmot,Rd,,199 Wilmot Rd,New Haven,New Haven,Connecticut,06515,USA,ENG,0,-72.957894,41.344395
+26,M,100.0,"255 Blatchley Ave, New Haven, Connecticut, 06513",StreetAddress,255,217,255,R,,,Blatchley,Ave,,255 Blatchley Ave,New Haven,New Haven,Connecticut,06513,USA,ENG,0,-72.899271,41.308733
+25,M,100.0,"293 Clinton Ave, New Haven, Connecticut, 06513",StreetAddress,293,285,307,R,,,Clinton,Ave,,293 Clinton Ave,New Haven,New Haven,Connecticut,06513,USA,ENG,0,-72.892614,41.318537
+27,M,100.0,"511 Chapel St, New Haven, Connecticut, 06511",StreetAddress,511,489,515,R,,,Chapel,St,,511 Chapel St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.915619,41.303758
+29,M,100.0,"133 Nash St, New Haven, Connecticut, 06511",StreetAddress,133,125,199,R,,,Nash,St,,133 Nash St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.907949,41.319211
+30,M,100.0,"133 Nash St, New Haven, Connecticut, 06511",StreetAddress,133,125,199,R,,,Nash,St,,133 Nash St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.907949,41.319211
+31,M,100.0,"737 Edgewood Ave, New Haven, Connecticut, 06515",StreetAddress,737,735,755,R,,,Edgewood,Ave,,737 Edgewood Ave,New Haven,New Haven,Connecticut,06515,USA,ENG,0,-72.960082,41.317645
+32,M,100.0,"22 Gold St, New Haven, Connecticut, 06519",StreetAddress,22,22,98,L,,,Gold,St,,22 Gold St,New Haven,New Haven,Connecticut,06519,USA,ENG,0,-72.931004,41.300745
+33,M,100.0,"164 Grand Ave, New Haven, Connecticut, 06513",StreetAddress,164,164,124,R,,,Grand,Ave,,164 Grand Ave,New Haven,New Haven,Connecticut,06513,USA,ENG,0,-72.893044,41.309171
+37,M,100.0,"804 State St, New Haven, Connecticut, 06511",StreetAddress,804,782,822,L,,,State,St,,804 State St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.914748,41.312488
+38,M,100.0,"15 Lexington Ave, New Haven, Connecticut, 06513",StreetAddress,15,1,145,R,,,Lexington,Ave,,15 Lexington Ave,New Haven,New Haven,Connecticut,06513,USA,ENG,0,-72.888259,41.29787
+34,M,100.0,"460 Lexington Ave, New Haven, Connecticut, 06513",StreetAddress,460,418,498,L,,,Lexington,Ave,,460 Lexington Ave,New Haven,New Haven,Connecticut,06513,USA,ENG,0,-72.882732,41.309171
+36,M,100.0,"180 Canner St, New Haven, Connecticut, 06511",StreetAddress,180,170,194,L,,,Canner,St,,180 Canner St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.914145,41.32397
+35,M,100.0,"375 Quinnipiac Ave, New Haven, Connecticut, 06513",StreetAddress,375,343,503,R,,,Quinnipiac,Ave,,375 Quinnipiac Ave,New Haven,New Haven,Connecticut,06513,USA,ENG,0,-72.889942,41.300894
+41,M,100.0,"150 Fournier St, New Haven, Connecticut, 06511",StreetAddress,150,148,198,L,,,Fournier,St,,150 Fournier St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.939189,41.332741
+39,M,100.0,"569 Congress Ave, New Haven, Connecticut, 06519",StreetAddress,569,585,543,L,,,Congress,Ave,,569 Congress Ave,New Haven,New Haven,Connecticut,06519,USA,ENG,0,-72.938229,41.300541
+43,M,100.0,"191 Fountain St, New Haven, Connecticut, 06515",StreetAddress,191,171,199,R,,,Fountain,St,,191 Fountain St,New Haven,New Haven,Connecticut,06515,USA,ENG,0,-72.96516,41.326926
+42,M,100.0,"130 Bassett St, New Haven, Connecticut, 06511",StreetAddress,130,130,152,L,,,Bassett,St,,130 Bassett St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.930366,41.331436
+40,M,100.0,"100 James St, New Haven, Connecticut, 06513",StreetAddress,100,80,134,L,,,James,St,,100 James St,New Haven,New Haven,Connecticut,06513,USA,ENG,0,-72.902737,41.305046
+46,M,100.0,"185 Barnes Ave, New Haven, Connecticut, 06513",StreetAddress,185,299,133,L,,,Barnes,Ave,,185 Barnes Ave,New Haven,New Haven,Connecticut,06513,USA,ENG,0,-72.876526,41.322525
+48,M,100.0,"259 Edgewood Ave, New Haven, Connecticut, 06511",StreetAddress,259,239,269,R,,,Edgewood,Ave,,259 Edgewood Ave,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.942602,41.312962
+44,M,100.0,"311 Valley St, New Haven, Connecticut, 06515",StreetAddress,311,249,315,R,,,Valley,St,,311 Valley St,New Haven,New Haven,Connecticut,06515,USA,ENG,0,-72.969275,41.331784
+47,M,100.0,"69 Grand Ave, New Haven, Connecticut, 06513",StreetAddress,69,79,39,L,,,Grand,Ave,,69 Grand Ave,New Haven,New Haven,Connecticut,06513,USA,ENG,0,-72.890367,41.309501
+45,M,100.0,"480 Townsend Ave, New Haven, Connecticut, 06512",StreetAddress,480,480,498,L,,,Townsend,Ave,,480 Townsend Ave,New Haven,New Haven,Connecticut,06512,USA,ENG,0,-72.896954,41.269851
+50,M,100.0,"55 Foote St, New Haven, Connecticut, 06511",StreetAddress,55,99,35,L,,,Foote,St,,55 Foote St,New Haven,New Haven,Connecticut,06511,USA,ENG,0,-72.932756,41.318067
+49,M,100.0,"114 Truman St, New Haven, Connecticut, 06519",StreetAddress,114,142,94,R,,,Truman,St,,114 Truman St,New Haven,New Haven,Connecticut,06519,USA,ENG,0,-72.941315,41.292948
